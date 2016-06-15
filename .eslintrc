@@ -1,8 +1,7 @@
 {
-    "extends": "airbnb/base",
+    "extends": "airbnb-base",
     "env": {
-        "node": true,
-        "esnext": true
+        "node": true
     },
     "rules": {
         "indent": [1, 4],
