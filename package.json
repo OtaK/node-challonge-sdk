@@ -15,7 +15,7 @@
   "author": "Mathieu Amiot <m.amiot@otak-arts.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "promise-request": "^0.1.2"
+    "request-promise": "^3.0.0"
   },
   "devDependencies": {
     "eslint": "^2.12.0",
