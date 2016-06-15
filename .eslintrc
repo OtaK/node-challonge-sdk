@@ -1,0 +1,12 @@
+{
+    "extends": "airbnb/base",
+    "env": {
+        "node": true,
+        "esnext": true
+    },
+    "rules": {
+        "indent": [1, 4],
+        "comma-dangle": [0],
+        "space-before-function-paren": [0]
+    }
+}
